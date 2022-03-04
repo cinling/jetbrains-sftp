@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cinling.jetbrainssftp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cinling.jetbrainssftp.MyBundle
 
 class MyApplicationService {
 
